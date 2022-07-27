@@ -1,5 +1,3 @@
-===============================================README====================================================
-
 This project trains a robotic hand to play the piano using deep reinforcement learning. 
 The following main python libraries and their versions are needed to run the given code: 
 
@@ -18,7 +16,7 @@ tensorboard == 2.4.0
 
  
 
-========================================Files and their descriptions:======================================
+
 
 PianoHandv1.ipynb: This is the Jupyter notebook containing our environment.
  
@@ -41,7 +39,7 @@ Requirements.txt: This file lists the python version, and the versions of the py
 
  
 
-======================================Directories and their contents:=========================================
+
 
 Weights: Contains the best weights obtained after training the robotic hand to reach two of the goals – key C 
 and key D. These weights are used to demonstrate the learning in the validation code. 
